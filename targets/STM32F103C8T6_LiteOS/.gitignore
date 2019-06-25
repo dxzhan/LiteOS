@@ -1,0 +1,13 @@
+MDK-ARM/DebugConfig
+MDK-ARM/RET
+MDK-ARM/STM32F103C8T6_LiteOS
+
+
+MDK-ARM/*.ini
+MDK-ARM/*.txt
+
+MDK-ARM/STM32F103C8T6_LiteOS.uvguix.sam
+
+*.crf
+*.d
+*.o
